@@ -1,0 +1,126 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://use.typekit.net/nyh1izf.css");
+
+* {
+  @apply m-0;
+}
+
+.container {
+  @apply mx-auto w-full max-w-screen-2xl px-6;
+  @apply md:px-10 lg:px-16 xl:px-20;
+}
+
+/* TYPOGRAPHY */
+
+@layer base {
+  .text-outline-blue {
+    -webkit-text-stroke: 2px #1d00b2;
+  }
+}
+
+@layer components {
+  .style-h1 {
+    @apply text-40 font-extrabold leading-tight md:text-64 text-white font-headline text-outline-blue uppercase;
+  }
+  .style-h2 {
+    @apply text-40 font-bold leading-tight md:text-48 font-headline uppercase;
+  }
+  .style-h3 {
+    @apply text-24 font-semibold leading-tight font-body;
+  }
+  .style-h4 {
+    @apply text-base font-semibold leading-tight font-body;
+  }
+  .style-body-x-small {
+    @apply text-12 leading-relaxed font-body;
+  }
+  .style-body-small {
+    @apply text-14 leading-relaxed font-body;
+  }
+  .style-body {
+    @apply text-base leading-normal font-body;
+  }
+}
+
+/* image carousel */
+.carousel {
+  --swiper-theme-color: #1d00b2;
+  --swiper-navigation-size: 1.5rem;
+}
+
+.swiper-slide-thumb-active {
+  @apply border-b-4 border-blue pb-2;
+}
+
+.thumbnails .swiper-slide {
+  @apply cursor-pointer hover:opacity-75;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+  @apply p-5 rounded-full;
+  @apply hover:bg-blue hover:bg-opacity-75 hover:text-white;
+}
+
+/* ANIMATIONS */
+
+.button {
+  @apply relative overflow-hidden;
+  /* --color: currentColor; */
+  /* padding: 0.8em 1.7em;
+  background-color: transparent;
+  border-radius: 0.3em;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer; */
+  transition: 0.3s;
+  /* font-weight: 400;
+  font-size: 17px;
+  border: 1px solid;
+  font-family: inherit;
+  text-transform: uppercase;
+  color: var(--color); */
+  z-index: 1;
+}
+
+.button::before,
+.button::after {
+  /* @apply bg-link; */
+  content: "";
+  display: block;
+  width: 50px;
+  height: 50px;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  border-radius: 50%;
+  z-index: -1;
+  /* background-color: var(--color); */
+  transition: 1s ease;
+}
+
+.button::before {
+  top: -2em;
+  left: -2em;
+}
+
+.button::after {
+  left: calc(100% + 2em);
+  top: calc(100% + 2em);
+}
+
+.button:hover::before,
+.button:hover::after {
+  height: 410px;
+  width: 410px;
+}
+
+/* .button:hover {
+  color: rgb(10, 25, 30);
+} */
+
+/* .button:active {
+  filter: brightness(0.8);
+} */

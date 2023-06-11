@@ -1,0 +1,599 @@
+Change this file extension to .json to use it as a json file
+
+Brown: 765
+Cream White: 766
+Turquoise: 5771
+Green: 767
+Mustard Yellow: 5774
+Dark Orange: 768
+Silver: 7652
+Gold: 7653
+
+
+
+//CORNER
+{
+  "brown": {
+    "label": "Brown",
+    "value": "765",
+    "hexCode": "#60342C",
+    "images": [
+     {
+    "imageSrc": "https://i.imgur.com/CJrVEZG.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Brown Corner Sofa"
+  },
+{
+    "imageSrc": "https://i.imgur.com/2CWnmt6.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Brown Corner Sofa Close Up"
+  },
+ {
+    "imageSrc": "https://i.imgur.com/CLuqW6t.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Brown Corner Sofa Full Picture"
+  } ]
+
+
+  },
+  "cream_white": {
+    "label": "Cream White",
+    "value": "766",
+    "hexCode": "#EEE6E4",
+    "images": [
+
+      {
+    "imageSrc":  "https://i.imgur.com/0GBOojx.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Cream White Corner Sofa"
+  } ,
+   {
+    "imageSrc":  "https://i.imgur.com/9NTpbpL.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Cream White Corner Sofa Close Up"
+  },
+   {
+    "imageSrc": "https://i.imgur.com/mk09lep.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Cream White Corner Sofa Full Picture"
+  }
+    ]
+  },
+  "turquoise": {
+    "label": "Turquoise",
+    "value": "5771",
+    "hexCode": "#2C6B7E",
+    "images": [
+
+ {
+    "imageSrc":   "https://i.imgur.com/zLnhabw.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Turquoise Corner Sofa"
+  } ,
+   {
+    "imageSrc": "https://i.imgur.com/zLnhabw.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Turquoise Corner Sofa Close Up"
+  },
+   {
+    "imageSrc": "https://i.imgur.com/zLnhabw.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Turquoise Corner Sofa Full Picture"
+  }
+    ]
+  },
+  "green": {
+    "label": "Green",
+    "value": "767",
+    "hexCode": "#3D5648",
+    "images": [
+
+{
+    "imageSrc":   "https://i.imgur.com/JmS8oT4.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Green Corner Sofa"
+  } ,
+   {
+    "imageSrc": "https://i.imgur.com/DOiIrkh.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Green Corner Sofa Close Up"
+  },
+   {
+    "imageSrc": "https://i.imgur.com/c4OCDis.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Green Corner Sofa Full Picture"
+  }
+
+    ]
+  },
+  "mustard_yellow": {
+    "label": "Mustard Yellow",
+    "value": "5774",
+    "hexCode": "#C99136",
+    "images": [
+
+{
+    "imageSrc":    "https://i.imgur.com/GdRtkzf.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Mustard Yellow Corner Sofa"
+  } ,
+   {
+    "imageSrc":"https://i.imgur.com/FUWsr6O.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Mustard Yellow Corner Sofa Close Up"
+  },
+   {
+    "imageSrc":"https://i.imgur.com/Em1tCWv.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Mustard Yellow Corner Sofa Full Picture"
+  }
+
+    ]
+  },
+  "dark_orange": {
+    "label": "Dark Orange",
+    "value": "768",
+    "hexCode": "#914525",
+    "images": [
+
+{
+    "imageSrc":  "https://i.imgur.com/ylGB0GU.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Dark Orange Corner Sofa"
+  } ,
+   {
+    "imageSrc":"https://i.imgur.com/OxpLMDf.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Dark Orange Corner Sofa Close Up"
+  },
+   {
+    "imageSrc": "https://i.imgur.com/ONwmFSy.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Dark Orange Corner Sofa Full Picture"
+  }
+    ]
+  }
+}
+
+//OTTOMAN   
+{
+    "brown": {
+      "label": "Brown",
+      "value": "765",
+      "hexCode": "#60342C",
+      "images": [
+     {
+    "imageSrc": "https://i.imgur.com/9EbpYRD.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Brown Ottoman"
+  },
+ {
+    "imageSrc": "https://i.imgur.com/MQmgxXx.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Brown Ottoman Full Picture"
+  } ]
+    },
+    "cream_white": {
+      "label": "Cream White",
+      "value": "766",
+      "hexCode": "#EEE6E4",
+      "images": [
+  {
+    "imageSrc":  "https://i.imgur.com/NoZvc8G.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Cream White Ottoman"
+  } ,
+  
+   {
+    "imageSrc": "https://i.imgur.com/9EbpYRD.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Cream White Ottoman Full Picture"
+  }
+    ]
+
+
+    },
+    "turquoise": {
+      "label": "Turquoise",
+      "value": "5771",
+      "hexCode": "#2C6B7E",
+ "images": [
+
+ {
+    "imageSrc":   "https://i.imgur.com/nmyLKF9.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Turquoise Ottoman"
+  } ,
+   {
+    "imageSrc": "https://i.imgur.com/E4qdiqU.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Turquoise Ottoman Full Picture"
+  }
+    ]
+
+    },
+    "green": {
+      "label": "Green",
+      "value": "767",
+      "hexCode": "#3D5648",
+ "images": [
+
+{
+    "imageSrc":   "https://i.imgur.com/Skck9TD.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Green Ottoman"
+  } ,
+   
+   {
+    "imageSrc": "https://i.imgur.com/4J2o0Dd.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Green Ottoman Full Picture"
+  }
+
+    ]
+
+    },
+    "dark_orange": {
+      "label": "Dark orange",
+      "value": "768",
+      "hexCode": "#914525",
+ "images": [
+
+{
+    "imageSrc":  "https://i.imgur.com/ptgfWW1.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Dark Orange Ottoman"
+  } ,
+   
+   {
+    "imageSrc": "https://i.imgur.com/MqawrlJ.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Dark Orange Ottoman Full Picture"
+  }  ]
+    }
+  }
+
+  //PILLOWS   
+{
+    "brown": {
+      "label": "Brown",
+      "value": "765",
+      "hexCode": "#60342C",
+      "images": [
+{
+    "imageSrc":  "https://i.imgur.com/eOU4xVH.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Brown Pillows"
+  }
+
+       
+      ]
+    },
+    "cream_white": {
+      "label": "Cream White",
+      "value": "766",
+      "hexCode": "#EEE6E4",
+      "images": [
+{
+    "imageSrc":  "https://i.imgur.com/X4360Aw.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Cream White Pillows"
+  }
+
+          
+      ]
+    },
+    "turquoise": {
+      "label": "Turquoise",
+      "value": "5771",
+      "hexCode": "#2C6B7E",
+      "images": [
+{
+    "imageSrc":  "https://i.imgur.com/QMgCYNm.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Turquoise Pillows"
+  }     
+      ]
+    },
+    "green": {
+      "label": "Green",
+      "value": "767",
+      "hexCode": "#3D5648",
+      "images": [
+{
+    "imageSrc":  
+          "https://i.imgur.com/5jxApFG.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Green Pillows"
+  }  
+
+      ]
+    },
+    "mustard_yellow": {
+      "label": "Mustard Yellow",
+      "value": "5774",
+      "hexCode": "#C99136",
+      "images": [
+
+{
+    "imageSrc":  
+           "https://i.imgur.com/wrXTou1.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Mustard Yellow Pillows"
+  } 
+
+         
+      ]
+    },
+    "dark_orange": {
+      "label": "Dark Orange",
+      "value": "768",
+      "hexCode": "#914525",
+      "images": [
+
+{
+    "imageSrc":  
+         "https://i.imgur.com/79h21zg.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Dark Orange Pillows"
+  }
+
+          
+      ]
+    }
+  }
+
+  //TEDDY
+  {
+    "brown": {
+      "label": "Brown",
+      "value": "765",
+      "hexCode": "#60342C",
+      "images": [
+         {
+    "imageSrc": "https://i.imgur.com/Kler6gR.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Brown Teddy Sofa"
+  },
+{
+    "imageSrc": "https://i.imgur.com/tPeUciJ.jpgg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Brown Teddy Sofa Version 1"
+  },
+ {
+    "imageSrc": "https://i.imgur.com/74qWvqh.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Brown Teddy Sofa Version 2"
+  },
+   {
+    "imageSrc": "https://i.imgur.com/9yEByoA.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Brown Teddy Sofa Full Picture"
+  } 
+      ]
+    },
+    "cream_white": {
+      "label": "Cream White",
+      "value": "766",
+      "hexCode": "#EEE6E4",
+      "images": [
+
+
+  {
+    "imageSrc": "https://i.imgur.com/bf2wpwL.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Cream White Teddy Sofa"
+  },
+{
+    "imageSrc": "https://i.imgur.com/PHQPb4c.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Cream White Teddy Sofa Version 1"
+  },
+ {
+    "imageSrc":"https://i.imgur.com/bZw1RyJ.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Cream White Teddy Sofa Version 2"
+  },
+   {
+    "imageSrc":"https://i.imgur.com/oWl2QoW.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Cream White Teddy Sofa Full Picture"
+  } 
+      ]
+    },
+    "turquoise": {
+      "label": "Turquoise",
+      "value": "5771",
+      "hexCode": "#2C6B7E",
+      "images": [
+
+  {
+    "imageSrc":  "https://i.imgur.com/WNWm2tG.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Turquoise Teddy Sofa"
+  },
+{
+    "imageSrc":"https://i.imgur.com/vykGDLO.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Turquoise Teddy Sofa Version 1"
+  },
+ {
+    "imageSrc": "https://i.imgur.com/b6UUvJL.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Turquoise Teddy Sofa Version 2"
+  },
+   {
+    "imageSrc":"https://i.imgur.com/ob9HIT7.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Turquoise Teddy Sofa Full Picture"
+  } 
+      ]
+    },
+    "green": {
+      "label": "Green",
+      "value": "767",
+      "hexCode": "#3D5648",
+      "images": [
+
+{
+    "imageSrc":  "https://i.imgur.com/sMRbRw9.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Green Teddy Sofa"
+  },
+{
+    "imageSrc":"https://i.imgur.com/78BsGHb.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Green Teddy Sofa Version 1"
+  },
+ {
+    "imageSrc": "https://i.imgur.com/0EP5zVr.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Green Teddy Sofa Version 2"
+  },
+   {
+    "imageSrc":"https://i.imgur.com/xoCYdGS.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Green Teddy Sofa Full Picture"
+  }
+      ]
+    },
+    "mustard_yellow": {
+      "label": "Mustard Yellow",
+      "value": "5774",
+      "hexCode": "#C99136",
+      "images": [
+{
+    "imageSrc":  "https://i.imgur.com/b9mvTbM.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Mustard Yellow Teddy Sofa"
+  },
+{
+    "imageSrc":"https://i.imgur.com/PWpKiMe.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Mustard Yellow Teddy Sofa Version 1"
+  },
+ {
+    "imageSrc": "https://i.imgur.com/M25unH6.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Mustard Yellow Teddy Sofa Version 2"
+  },
+   {
+    "imageSrc":"https://i.imgur.com/gemFRQ9.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Mustard Yellow Teddy Sofa Full Picture"
+  }
+      ]
+    },
+    "dark_orange": {
+      "label": "Dark Orange",
+      "value": "768",
+      "hexCode": "#914525",
+      "images": [
+
+{
+    "imageSrc":  "https://i.imgur.com/SdywFOc.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Dark Orange Teddy Sofa"
+  },
+{
+    "imageSrc":"https://i.imgur.com/QlQLp5B.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Dark Orange Teddy Sofa Version 1"
+  },
+ {
+    "imageSrc": "https://i.imgur.com/IOtR9lA.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Dark Orange Teddy Sofa Version 2"
+  },
+   {
+    "imageSrc":"https://i.imgur.com/J0qfXaa.jpg",
+    "imageWidth": 900,
+    "imageHeight": 900,
+    "alt": "Dark Orange Teddy Sofa Full Picture"
+  }
+      ]
+    }
+  }
+
+  // METAL BARS
+  {
+    "silver":{
+      "label": "Silver",
+      "value": "7652",
+      "hexCode": "#E9E9E9",
+    },
+     "gold":{
+      "label": "Gold",
+      "value": "7653",
+      "hexCode": "#D2B978",
+    },
+  }
+
+
+
+<p> <strong>Materials</strong></p> </br>
+<p> - Fabric: 100% polyester (35,000 Martindale). Can be zipped off and washed.</p>
+<p>- Mattresses and cushions: Cold foam and granules.</p>
+<br/>
+
+<p>Experience the soft and cozy feel of TEDDY with its premium 100% polyester fabric. With a remarkable Martindale rating of 35,000, this high-quality material ensures exceptional durability and resistance to wear and tear, guaranteeing long-lasting performance. The balanced softness and firmness of the cold foam, combined with the additional cushioning from the granules, deliver an exceptional sleep or seating experience. Keep your TEDDY fresh and vibrant by conveniently washing the removable covers whenever needed. </p> <br/> <br/>
+
+<p> <strong>Washing Instructions</strong></p></br>
+<p>Maintaining the cleanliness of your TEDDY is simple with the zip-off covers for mattresses and cushions.  Follow these instructions: turn the covers inside out to protect the fabric, use mild or extra gentle soap, and wash at a maximum temperature of 30° to preserve the fabric's integrity. After washing, air dry or tumble dry the covers on low heat. Then, effortlessly zip them back onto the mattresses and cushions, ready to enjoy the cozy comfort of TEDDY once more.</p>
