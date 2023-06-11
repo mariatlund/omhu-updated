@@ -191,7 +191,7 @@ function Product({ params }: ProductProps) {
             {product.product_id === 4 && (
               <TextAndGif
                 title="Fold it how you want"
-                text="Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia architecto provident deleniti suscipit id ratione repudiandae animi saepe temporibus blanditiis, asperiores voluptas aspernatur voluptate, exercitationem voluptates quisquam ea dolorem cumque?"
+                text="TEDDY is a sofa bed and can be adjusted for your needs. Move the corner pillows and slide out one of the mattresses to turn it into a bed or a conversation pit. You can also move the corner pillows around to your liking. Movie nights and sleepovers have never been better. When you're done relaxing, you can fold TEDDY right back up by stacking the mattresses again."
                 image={TeddyAnimationObject}
               />
             )}
