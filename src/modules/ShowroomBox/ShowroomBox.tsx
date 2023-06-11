@@ -37,7 +37,7 @@ function ShowroomBox() {
           <h2 className="style-h3 uppercase">Book a time slot</h2>
           <span>Copenhagen only</span>
         </div>
-        <InlineWidget url="https://calendly.com/d/yp8-7hz-5pc/omhu-showcase" styles={{ height: "44rem" }} />
+        <InlineWidget url="https://calendly.com/mari28rd/omhu" styles={{ height: "44rem" }} />
       </div>
     </section>
   );
